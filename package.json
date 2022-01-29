@@ -1,0 +1,26 @@
+{
+  "name": "teamprofile-generator",
+  "version": "1.0.0",
+  "description": "An application that takes in info about employees, and generates a HTML webpage that displays summaries for each person",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cnb10100/teamprofile-generator.git"
+  },
+  "author": "cnb10100",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cnb10100/teamprofile-generator/issues"
+  },
+  "homepage": "https://github.com/cnb10100/teamprofile-generator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.0",
+    "jest": "^27.4.7"
+  }
+}
