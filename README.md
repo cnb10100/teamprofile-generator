@@ -28,3 +28,7 @@ To use this application, clone the repository and install npm Inquirer. Then (as
 ## Walkthrough Video
 
 Link: https://watch.screencastify.com/v/kk8CtMeGzzQE2jSJVMI6
+
+### Video showing the tests pass
+
+Link: https://watch.screencastify.com/v/KlM0Q0w26ik5DM1qOizK
