@@ -16,7 +16,7 @@ This application was tested using the following framework:
 
 ## Usage
 
-To use this application, clone the repository and install npm Inquirer. Then (as a maanger), you will want to answer the prompts in the command line to build your team profile. Once you have answered all the prompts and entered all your team members, select DONE. A HTML file with your team profile will be generated for you in the /dist folder.
+To use this application, clone the repository and install npm Inquirer. Then (as a manager), you will want to answer the prompts in the command line to build your team profile. Once you have answered all the prompts and entered all your team members, select DONE. A HTML file with your team profile will be generated for you in the /dist folder.
 
 ## Built With
 
